@@ -5,6 +5,8 @@ http://1111296894.rsc.cdn77.org/LS-ATL-54548-10/playlist.m3u8
 http://stream.tvtap.live:8081/live/us-msnbc.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="111CNNUSA.us" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/Ivyl5SQ.gif" group-title="News",CNN USA (360p) [Not 24/7]
 http://stream.tvtap.live:8081/live/us-cnn.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="CNNUSA.us" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/Ivyl5SQ.gif" group-title="News",CNN USA (720p) [Geo-blocked]
+http://163.172.39.215:25461/line/C4@!a3a1@!w72A/129
 #EXTINF:-1 tvg-id="C111NNUSA.us" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/Ivyl5SQ.gif" group-title="News",CNN USA (720p)
 https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_0_3564000.m3u8
 #EXTINF:-1 tvg-id="111CNNUSA.us" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/Ivyl5SQ.gif" group-title="News",CNN USA (480p)
