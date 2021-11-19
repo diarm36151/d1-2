@@ -79,3 +79,9 @@ https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_4_10
 http://stream.tvtap.live:8081/live/us-cnn.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="CNNUSA.us" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/Ivyl5SQ.gif" group-title="News",CNN USA NEW
 https://h3.ustvgo.la/CNN/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvNi8yMDIxIDI6NDM6NDMgQU0maGFzaF92YWx1ZT1oY0FUQXlSMWkzdjliQS8xUnJZbk9nPT0mdmFsaWRtaW51dGVzPTI0MA==
+#EXTINF:0,C-SPAN (USA)
+https://skystreams-lh.akamaihd.net/i/SkyC1_1@500806/master.m3u8
+#EXTINF:0,C-SPAN 2 (USA)
+https://skystreams-lh.akamaihd.net/i/SkyC2_1@500807/master.m3u8
+#EXTINF:0,C-SPAN 3 (USA)
+https://skystreams-lh.akamaihd.net/i/SkyC3_1@500808/master.m3u8
